@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "766384492933",
+    "firebase_url": "https://security-b3fb5.firebaseio.com",
+    "project_id": "security-b3fb5",
+    "storage_bucket": "security-b3fb5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766384492933:android:f38e731cc1f7bf1c",
+        "android_client_info": {
+          "package_name": "com.company.security"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "766384492933-im1i1ju3f6orfmrkqi145roreb0dmepq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9fedvZREH49VodwKtIp75IBH6dJ6DJqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "766384492933-im1i1ju3f6orfmrkqi145roreb0dmepq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
